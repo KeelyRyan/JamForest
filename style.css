@@ -1,0 +1,35 @@
+
+.Button{
+  background-color: : white;
+  color:black;
+}
+.bg-black {
+    background-color: black;
+   height:100%
+}
+.container-fluid{
+   padding: 60px 50px;
+   height:20%
+}
+#topLogo{
+
+  width: 100%;
+}
+#flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+ }
+ #flexw {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color:black;
+  }
+ a{
+   color:white;
+ }
+ #socialBlack{
+   display:left;
+ }
