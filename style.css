@@ -21,15 +21,18 @@
   justify-content: center;
   color:white;
  }
- #flexw {
+ #flexWhite {
    display: flex;
    align-items: center;
    justify-content: center;
    color:black;
-  }
- a{
+}
+ a.class1 {
    color:white;
  }
- #socialBlack{
-   display:left;
+ a.class2 {
+   color:black;
  }
+ #socialMedia{
+   display:left;
+}
