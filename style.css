@@ -1,4 +1,6 @@
-
+.row{
+  padding-bottom: 10px;
+}
 .Button{
   background-color: : white;
   color:black;
@@ -6,7 +8,7 @@
 .bg-black {
     background-color: black;
    min-height:100%;
-   
+
 }
 .container-fluid{
    padding: 60px 50px;
@@ -34,6 +36,9 @@
  a.class2 {
    color:black;
  }
- #socialMedia{
-   display:left;
+i{
+  align-content: flex-end;
+}
+h6{
+  color:#9AF62F;
 }
