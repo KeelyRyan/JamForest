@@ -2,12 +2,6 @@ body{
   font-family: "Hiragino sans","MS PGothic", sans-serif;
 }
 
-.text1 p, .text2 p, .text3 p, .text4 p, .text5 p {
-position:relative;
-bottom:30px;
-left:0px;
-visibility:hidden;
-}
   .row{
   padding-bottom: 10px;
   margin-right: 0px;
