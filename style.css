@@ -1,12 +1,6 @@
-@import url(//db.onlinewebfonts.com/c/3f086dbc376893f56b4a9c4d3cac5df9?family=Hiragino+Sans+GB);
-@font-face {font-family: "Hiragino Sans GB";src: url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.eot");
-    src: url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.eot?#iefix") format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.woff2") format("woff2"),
-    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.woff") format("woff"),
-    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.ttf") format("truetype"),
-    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.svg#Hiragino Sans GB") format("svg");
+body{
+  font-family: "Hiragino sans","MS PGothic", sans-serif;
 }
-
 
 
   .row{
@@ -60,6 +54,30 @@ background:{
   align-items: center;
   justify-content: center;
   color:black;
+}
+#Grace{
+  width: 100%;
+  border-style: solid;
+border-width: medium;
+border-color: #9AF62F;
+}
+#Gil{
+  width: 100%;
+  border-style: solid;
+border-width: medium;
+border-color: #9AF62F;
+}
+#Mary{
+  width: 100%;
+  border-style: solid;
+border-width: medium;
+border-color: #9AF62F;
+}
+#Keely{
+  width: 100%;
+  border-style: solid;
+border-width: medium;
+border-color: #9AF62F;
 }
 #flex6 {
   display: flex;
