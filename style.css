@@ -37,11 +37,11 @@ background:{
    justify-content: center;
    color:black;
 }
-#Grace, #Gil, #Mary, #Keely{
+#Grace, #Gil, #Mary, #Keely,{
   width: 100%;
-  border-style: solid;
+  border-style: groove;
 border-width: medium;
-border-color: #9AF62F;
+border-color: #7ED320;
 }
 
  a.class1a, a.class1b, a.class1c, a.class1d, a.class1e, a.class1f {
@@ -54,8 +54,8 @@ i{
   align-content: flex-end;
 }
 h6{
-  color:#9AF62F;
+  color:#7ED320;
 }
 h3{
-  color:#9AF62F;
+  color:#7ED320;
 }
