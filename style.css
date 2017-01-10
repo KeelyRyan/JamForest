@@ -17,12 +17,11 @@ background-color: black;
 background:{
   color: black;}
 .container-fluid{
-   padding: 60px 50px;
+padding: 60px 50px;
    height:20%
 }
 #topLogo{
-
-  width: 100%;
+width: 100%;
 }
 #flex1, #flex3, #flex5  {
   display: flex;
@@ -37,10 +36,10 @@ background:{
    justify-content: center;
    color:black;
 }
-#Grace, #Gil, #Mary, #Keely,{
-  width: 100%;
-  border-style: groove;
-border-width: medium;
+#Grace, #Gil, #Mary, #Keely{
+width: 100%;
+border-style:solid;
+border-width:thin;
 border-color: #7ED320;
 }
 
@@ -53,7 +52,7 @@ border-color: #7ED320;
 i{
   align-content: flex-end;
 }
-h6{
+h6, h2{
   color:#7ED320;
 }
 h3{
