@@ -67,3 +67,15 @@ footer{
 .modal-text{
   margin-left: 10%;
 }
+
+.secDesc{
+  position: left;
+  color: #7ED320;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.secWrap:hover .secDesc {
+  visibility: visible;
+  opacity: 1;
+}
