@@ -52,9 +52,18 @@ border-color: #7ED320;
 i{
   align-content: flex-end;
 }
-h6, h2{
+h6, h3, h2{
   color:#7ED320;
 }
-h3{
+footer{
   color:#7ED320;
+  background-color: black;
+  text-align: center;
+}
+.CB{
+  margin-right: 10%;
+  text-align: right;
+}
+.modal-text{
+  margin-left: 10%;
 }
