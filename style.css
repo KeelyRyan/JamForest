@@ -1,5 +1,10 @@
 body{
   font-family: "Hiragino sans","MS PGothic", sans-serif;
+
+    color:white;
+    background-color: black;
+    text-align: center;
+
 }
 
   .row{
@@ -18,8 +23,8 @@ background:{
   color: black;}
 .container-fluid{
 padding: 60px 50px;
-   height:20%
-}
+   height:100%
+ }
 #topLogo{
 width: 100%;
 }
@@ -55,11 +60,7 @@ i{
 h6, h3, h2{
   color:#7ED320;
 }
-footer{
-  color:#7ED320;
-  background-color: black;
-  text-align: center;
-}
+
 .CB{
   margin-right: 10%;
   text-align: right;
