@@ -25,11 +25,11 @@
 		<div class="row">
       <!--Social media -->
 			<div class="col-sm-12">
-			<a href="www.facebook.com/JamForestApp/" style="color:white" "width 40px;" ><i class= "fa fa-facebook"></i></a>
-			<a href="www.twitter.com/jamforestapp" style="color:white"><i class= "fa fa-twitter"></i></a>
-			<a href="www.instagram.com/jamforestapp/" style="color:white"><i class= "fa fa-instagram"></i></a>
-			<a href="www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:white"><i class= "fa fa-youtube"></i></a>
-      <a href="http://jamforestapp.tumblr.com/" style="color:white"><span class="icon-blogger"></a>
+			<a href="https://www.facebook.com/JamForestApp/" style="color:white"><i class= "fa fa-facebook"></i></a>
+			<a href="https://twitter.com/jamforestapp" style="color:white"><i class= "fa fa-twitter"></i></a>
+			<a href="https://webgram.co/jamforestapp" style="color:white"><i class= "fa fa-instagram"></i></a>
+			<a href="https://www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:white"><i class= "fa fa-youtube"></i></a>
+      <a href="http://jamforestapp.tumblr.com/" style="color:white"><i class= "fa fa-bold"></i></a>
       <a href="https://open.spotify.com/user/jamforest" style="color:white"><i class= "fa fa-spotify"></i></a>
       <a href="https://plus.google.com/u/0/117675732442145087177" style="color:white"><i class="fa fa-google-plus"></i></a>
 	</div></div>
@@ -99,7 +99,7 @@
             else{
         	    $from="From: $name<$email>\r\nReturn-path: $email";
                 $subject="Wait list request via website";
-        		 mail("keelsryan@gmail.com", $subject, $message, $from);
+        		 mail("grace@jamforest.com", $subject, $message, $from);
         		echo "Email sent!";
         	    }
             }
@@ -120,11 +120,11 @@
     <!--Social media -->
     <div class="hidden-xs col-sm-12">
     </br>
-    <a href="www.facebook.com/JamForestApp/" style="color:black" "width 40px;" ><i class= "fa fa-facebook"></i></a>
-    <a href="www.twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
-    <a href="www.instagram.com/jamforestapp/" style="color:black"><i class= "fa fa-instagram"></i></a>
-    <a href="www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:black"><i class= "fa fa-youtube"></i></a>
-    <a href="http://jamforestapp.tumblr.com/" style="color:black"><span class="icon-blogger"></a>
+    <a href="https://www.facebook.com/JamForestApp/" style="color:black"><i class= "fa fa-facebook"></i></a>
+    <a href="https://twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
+    <a href="https://webgram.co/jamforestapp" style="color:black"><i class= "fa fa-instagram"></i></a>
+    <a href="https://www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:black"><i class= "fa fa-youtube"></i></a>
+    <a href="http://jamforestapp.tumblr.com/" style="color:black"><i class= "fa fa-bold"></i></a>
     <a href="https://open.spotify.com/user/jamforest" style="color:black"><i class= "fa fa-spotify"></i></a>
     <a href="https://plus.google.com/u/0/117675732442145087177" style="color:black"><i class="fa fa-google-plus"></i></a>
 </div></div>
@@ -161,13 +161,13 @@
   <div class="row">
     <!--Social media -->
     <div class="col-sm-12">
-    <a href="www.facebook.com/JamForestApp/" style="color:white" "width 40px;" ><i class= "fa fa-facebook"></i></a>
-    <a href="www.twitter.com/jamforestapp" style="color:white"><i class= "fa fa-twitter"></i></a>
-    <a href="www.instagram.com/jamforestapp/" style="color:white"><i class= "fa fa-instagram"></i></a>
-    <a href="www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:white"><i class= "fa fa-youtube"></i></a>
-    <a href="http://jamforestapp.tumblr.com/" style="color:white"><span class="icon-blogger"></a>
-    <a href="https://open.spotify.com/user/jamforest" style="color:white"><i class= "fa fa-spotify"></i></a>
-    <a href="https://plus.google.com/u/0/117675732442145087177" style="color:white"><i class="fa fa-google-plus"></i></a>
+      <a href="https://www.facebook.com/JamForestApp/" style="color:white"><i class= "fa fa-facebook"></i></a>
+			<a href="https://twitter.com/jamforestapp" style="color:white"><i class= "fa fa-twitter"></i></a>
+			<a href="https://webgram.co/jamforestapp" style="color:white"><i class= "fa fa-instagram"></i></a>
+			<a href="https://www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:white"><i class= "fa fa-youtube"></i></a>
+      <a href="http://jamforestapp.tumblr.com/" style="color:white"><i class= "fa fa-bold"></i></a>
+      <a href="https://open.spotify.com/user/jamforest" style="color:white"><i class= "fa fa-spotify"></i></a>
+      <a href="https://plus.google.com/u/0/117675732442145087177" style="color:white"><i class="fa fa-google-plus"></i></a>
 </div></div>
   <div class="row"><div class="col-sm-12"></div></div>
 
@@ -248,11 +248,11 @@
     <!--Social media -->
     <div class="hidden-xs col-sm-12">
     </br>
-    <a href="www.facebook.com/JamForestApp/" style="color:black" "width 40px;" ><i class= "fa fa-facebook"></i></a>
-    <a href="www.twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
-    <a href="www.instagram.com/jamforestapp/" style="color:black"><i class= "fa fa-instagram"></i></a>
-    <a href="www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:black"><i class= "fa fa-youtube"></i></a>
-    <a href="http://jamforestapp.tumblr.com/" style="color:black"><span class="icon-blogger"></a>
+    <a href="https://www.facebook.com/JamForestApp/" style="color:black"><i class= "fa fa-facebook"></i></a>
+    <a href="https://twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
+    <a href="https://webgram.co/jamforestapp" style="color:black"><i class= "fa fa-instagram"></i></a>
+    <a href="https://www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:black"><i class= "fa fa-youtube"></i></a>
+    <a href="http://jamforestapp.tumblr.com/" style="color:black"><i class= "fa fa-bold"></i></a>
     <a href="https://open.spotify.com/user/jamforest" style="color:black"><i class= "fa fa-spotify"></i></a>
     <a href="https://plus.google.com/u/0/117675732442145087177" style="color:black"><i class="fa fa-google-plus"></i></a>
 </div></div>
@@ -302,29 +302,23 @@
 <div class="row">
   <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
   <a href= "https://ie.linkedin.com/in/gracetooher">
-  <img src="images/Grace.png" class="img-circle" alt="Grace" id="Grace"></a></div>
-  <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
+  <img src="images/Grace.png" class="img-circle" alt="Grace" id="Grace"></a>
   </br><p>Grace</p><p>Founder</p><p>CTO/CEO</p> </div>
-</div>
-<div class="row">
+
   <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
     <a href= "https://ie.linkedin.com/in/marymb">
-    <img src="images/MazaFin.png" class="img-circle" alt="Mary" id="Mary"></a></div>
-  <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
+    <img src="images/MazaFin.png" class="img-circle" alt="Mary" id="Mary"></a>
   </br><p>Mary</p><p>COD</p></div>
 </div>
 <div class="row">
   <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
     <a href= "https://ie.linkedin.com/in/gillianoryan">
-    <img src="images/gil.png" class="img-circle" alt="Gil" id="Gil"></a> </div>
-  <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
+    <img src="images/gil.png" class="img-circle" alt="Gil" id="Gil"></a>
   </br><p>Gillian</p><p>COM</p> </div>
-</div>
-<div class="row">
+
   <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
     <a href= "https://ie.linkedin.com/in/keely-ryan-1a992680">
-    <img src="images/keels.jpg" class="img-circle" alt="Keely" id="Keely"></a></div>
-  <div class="col-xs-6 hidden-sm hidden-md hidden-lg text-center">
+    <img src="images/keels.jpg" class="img-circle" alt="Keely" id="Keely"></a>
   </br><p>Keely</p><p>Web</p></div>
 </div>
 
@@ -337,22 +331,29 @@
   <div class="row">
     <!--Social media -->
     <div class="col-sm-12">
-    <a href="www.facebook.com/JamForestApp/" style="color:white" "width 40px;" ><i class= "fa fa-facebook"></i></a>
-    <a href="www.twitter.com/jamforestapp" style="color:white"><i class= "fa fa-twitter"></i></a>
-    <a href="www.instagram.com/jamforestapp/" style="color:white"><i class= "fa fa-instagram"></i></a>
-    <a href="www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:white"><i class= "fa fa-youtube"></i></a>
-    <a href="http://jamforestapp.tumblr.com/" style="color:white"><span class="icon-blogger"></a>
-    <a href="https://open.spotify.com/user/jamforest" style="color:white"><i class= "fa fa-spotify"></i></a>
-    <a href="https://plus.google.com/u/0/117675732442145087177" style="color:white"><i class="fa fa-google-plus"></i></a>
+      <a href="https://www.facebook.com/JamForestApp/" style="color:white"><i class= "fa fa-facebook"></i></a>
+			<a href="https://twitter.com/jamforestapp" style="color:white"><i class= "fa fa-twitter"></i></a>
+			<a href="https://webgram.co/jamforestapp" style="color:white"><i class= "fa fa-instagram"></i></a>
+			<a href="https://www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:white"><i class= "fa fa-youtube"></i></a>
+      <a href="http://jamforestapp.tumblr.com/" style="color:white"><i class= "fa fa-bold"></i></a>
+      <a href="https://open.spotify.com/user/jamforest" style="color:white"><i class= "fa fa-spotify"></i></a>
+      <a href="https://plus.google.com/u/0/117675732442145087177" style="color:white"><i class="fa fa-google-plus"></i></a>
 </div></div>
 <div class="row" id="flex5">
   <div class="hidden-xs col-sm-1">
   </div>
-  <div class="col-xs-12 col-sm-9 text-center">
+  <div class="hidden-xs col-sm-9 text-center">
   </br>
 <h3>Want to join the Jam<b>Forest</b> team?</h3>
 <br><p>Unfortunately, we do not have any vacancies at the moment, <br> but keep an eye here and on our <a href="https://www.linkedin.com/company-beta/11039854/">LinkedIn </a>to see when we do.</p>
 <img src="images/blackwhite.jpg" alt="JamForest logo" width="25%;">
+<h6>Grow Your Music Network</h6>
+</div>
+<div class="col-xs-12 hidden-sm hidden-md hidden-lg text-center">
+</br>
+<h3>Want to join the Jam<b>Forest</b> team?</h3>
+<br><p>Unfortunately, we do not have any vacancies at the moment, <br> but keep an eye here and on our <a href="https://www.linkedin.com/company-beta/11039854/">LinkedIn </a>to see when we do.</p>
+<img src="images/blackwhite.jpg" alt="JamForest logo" width="10%;">
 <h6>Grow Your Music Network</h6>
 </div>
 <!--Navigation -->
@@ -385,11 +386,11 @@
     <!--Social media -->
     <div class="hidden-xs col-sm-12">
     </br>
-    <a href="www.facebook.com/JamForestApp/" style="color:black" "width 40px;" ><i class= "fa fa-facebook"></i></a>
-    <a href="www.twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
-    <a href="www.instagram.com/jamforestapp/" style="color:black"><i class= "fa fa-instagram"></i></a>
-    <a href="www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:black"><i class= "fa fa-youtube"></i></a>
-    <a href="http://jamforestapp.tumblr.com/" style="color:black"><span class="icon-blogger"></a>
+    <a href="https://www.facebook.com/JamForestApp/" style="color:black"><i class= "fa fa-facebook"></i></a>
+    <a href="https://twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
+    <a href="https://webgram.co/jamforestapp" style="color:black"><i class= "fa fa-instagram"></i></a>
+    <a href="https://www.youtube.com/channel/UCiojt8k1cYBUqkl0pn1o3Zg" style="color:black"><i class= "fa fa-youtube"></i></a>
+    <a href="http://jamforestapp.tumblr.com/" style="color:black"><i class= "fa fa-bold"></i></a>
     <a href="https://open.spotify.com/user/jamforest" style="color:black"><i class= "fa fa-spotify"></i></a>
     <a href="https://plus.google.com/u/0/117675732442145087177" style="color:black"><i class="fa fa-google-plus"></i></a>
 </div></div>
@@ -397,10 +398,12 @@
 
   <div class="row" id="flex6">
     <div class="hidden-xs col-sm-1"></div>
-  <div class="col-xs-12 col-sm-9 text-center">
+  <div class="hidden-xs col-sm-9 text-center">
 <a class="twitter-timeline" data-width="500" data-height="450" href="https://twitter.com/jamforestapp">Tweets by jamforestapp</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
+<div class="col-xs-9 hidden-sm hidden-md hidden-lg text-center">
+<a class="twitter-timeline" data-width="500" data-height="200" href="https://twitter.com/jamforestapp">Tweets by jamforestapp</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 <!--Navigation -->
 <div class="hidden-xs col-sm-2">
 <div class="nav">
@@ -408,11 +411,11 @@
 </br>
 </br>
 <div class="secWrap"><a href="#section1" class="class2a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
-<div class="secWrap"><a href="#section2" class="class2b">&#9835;</a> <a class="secDesc"><small>Splainer Vid</a></small></div>
+<div class="secWrap"><a href="#section2" class="class2b">&#9835;</a> <a class="secDesc"><small>Here</a></small></div>
 <div class="secWrap"><a href="#section3" class="class2c">&#9835;</a> <a class="secDesc"><small>Jam<b>Forest</b></small></a></div>
 <div class="secWrap"><a href="#section4" class="class2d">&#9835;</a> <a class="secDesc"><small>Line-up</a></small></div>
 <div class="secWrap"><a href="#section5" class="class2e">&#9835;</a> <a class="secDesc"><small>Jobs</a></small></div>
-<div class="secWrap"><a href="#section6" class="class2f">&#9835;</a> <a class="secDesc"><small>Here</a></small></div>
+<div class="secWrap"><a href="#section6" class="class2f">&#9835;</a> <a class="secDesc"><small>News</a></small></div>
 </div>
 </div> </div>
 
@@ -425,14 +428,21 @@
   <p>&#169; Jam<b>Forest Ltd</b></p>
   <p>The Rubicon Centre, CIT Campus, Bishopstown, Cork, Ireland</p>
 <div class="row">
-<div class="col-sm-2 text-right">
+<div class="hidden-xs col-sm-2 text-right">
   <a href center data-toggle="modal" data-target="#myModal" style="color:#7ED320">Join Wait List</a>
 </div>
-<div class="col-sm-9 text-right">
+<div class="hidden-xs col-sm-9 text-right">
 <a href="http://jamforestapp.tumblr.com/" style="color:#7ED320"> blog </a>
 <a href center data-toggle="modal" data-target="#ContactModal" style="color:#7ED320"> contact </a>
 <a href="mailto:grace@jamforest.com" style="color:#7ED320"> support </a></p></div>
-<div class="col-sm-1"></div></div></footer>
+<div class="hidden-xs col-sm-1"></div></div>
+<div class="col-12-xs hidden-sm  hidden-md hidden-lg text-center">
+  <p> <a href center data-toggle="modal" data-target="#myModal" style="color:#7ED320">Join Wait List</a> </p>
+  <p> <a href="http://jamforestapp.tumblr.com/" style="color:#7ED320"> blog </a>
+  <a href center data-toggle="modal" data-target="#ContactModal" style="color:#7ED320"> contact </a>
+  <a href="mailto:grace@jamforest.com" style="color:#7ED320"> support </a></p></div>
+</div>
+</footer>
   <!-- Modal to subscribe to newsletter-->
   <div id="ContactModal" class="modal fade" role="dialog">
     <div class="modal-dialog">

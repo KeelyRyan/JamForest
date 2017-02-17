@@ -1,0 +1,143 @@
+body{
+  font-family: "Hiragino sans","MS PGothic", sans-serif;
+}
+.row{
+padding-bottom: 10px;
+margin-right: 0px;
+}
+.fa{
+font-size: 30px;
+}
+.icon-blogger{
+font-size: 30px;
+}
+h2{
+ color:#7ED320;
+}
+#flex1, #flex3, #flex5  {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+ }
+ #flex2, #flex4, #flex6  {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color:black;
+}
+.nav{
+  float: right;
+}
+a.class1a, a.class1b, a.class1c, a.class1d, a.class1e, a.class1f {
+  color:white;
+font-size: 20px;
+}
+a.class2a, a.class2b, a.class2c, a.class2d, a.class2e, a.class2f {
+  color:black;
+  font-size: 20px;
+}
+.secWrap:hover .secDesc {
+  visibility: visible;
+  opacity: 1;
+}
+.secWrap{
+  font-size: 15px;
+}
+.secDesc{
+  position: left;
+  visibility: hidden;
+  opacity: 0;
+}
+
+#section1, #section3, #section3, #section5{
+padding: 60px 50px;
+   height:100%;
+background-color: black;
+    min-height:100%;
+color: white;
+ }
+ #section31{
+ padding: 60px 50px;
+    height:200%;
+ background-color: black;
+     min-height:100%;
+ color: white;
+  }
+.Button{
+ background-color: : white;
+ color:black;
+}
+#topLogo{
+width: 100%;
+}
+.modal-content{
+  color: black;
+}
+#section2, #section4, #section6{
+padding: 60px 50px;
+   height:100%;
+background-color: white;
+    min-height:100%;
+color: black;
+ }
+
+ #Grace, #Gil, #Mary, #Keely{
+ width: 100%;
+
+ }
+ footer{
+   color:white;
+   background-color: black;
+   text-align: center;
+ }
+
+ @media only screen and (max-width: 700px) {
+
+   #section1, #section3, #section5,  #section2, #section4, #section6{
+   padding: 30px 25px;
+      height:50%;
+       min-height:60%;
+}
+#section4 {
+padding: 30px 25px;
+   height:100%;
+    min-height:60%;
+}
+.fa{
+font-size: 20px;
+}
+     }
+
+
+ @media only screen and (max-width: 500px) {
+
+   #section1, #section3, #section5,  #section2, #section4, #section6{
+   padding: 30px 25px;
+      height:60%;
+       min-height:60%;
+}
+#section4 {
+padding: 30px 25px;
+   height:100%;
+    min-height:60%;
+}
+.fa{
+font-size: 20px;
+}
+     }
+     @media only screen and (max-width: 320px) {
+    #section3, #section5, #section4, #section6{
+       padding: 30px 25px;
+          height:80%;
+           min-height:60%;
+    }
+    #section4 {
+    padding: 30px 25px;
+       height:120%;
+        min-height:100%;
+    }
+    .fa{
+    font-size: 20px;
+    }
+         }
