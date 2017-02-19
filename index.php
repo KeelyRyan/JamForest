@@ -9,8 +9,10 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link rel="icon" href="images/blackwhite.jpg" type="image/x-icon">
+  <script src="jquery.localscroll.js" type="text/javascript"></script>
+  <script src="jquery.scrollTo.js" type="text/javascript"></script>
 
+  <link rel="icon" href="images/blackwhite.jpg" type="image/x-icon">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="//db.onlinewebfonts.com/c/3f086dbc376893f56b4a9c4d3cac5df9?family=Hiragino+Sans+GB" rel="stylesheet" type="text/css"/>
@@ -33,7 +35,7 @@
       <a href="https://open.spotify.com/user/jamforest" style="color:white"><i class= "fa fa-spotify"></i></a>
       <a href="https://plus.google.com/u/0/117675732442145087177" style="color:white"><i class="fa fa-google-plus"></i></a>
 	</div></div>
-    <div class="row"><div class="col-sm-12"></div></div>
+    <div class="row"><div class="hidden-xs col-sm-12 text-center"> </br></br></br></div></div>
 <!-- Logo -->
 		<div class="row" id="flex1">
 		<div class="col-xs-12 col-sm-10">
@@ -119,7 +121,6 @@
   <div class="row">
     <!--Social media -->
     <div class="hidden-xs col-sm-12">
-    </br>
     <a href="https://www.facebook.com/JamForestApp/" style="color:black"><i class= "fa fa-facebook"></i></a>
     <a href="https://twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
     <a href="https://webgram.co/jamforestapp" style="color:black"><i class= "fa fa-instagram"></i></a>
@@ -137,12 +138,11 @@
    <iframe src="https://www.youtube.com/embed/NiEERhAVjNI" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
+
 <!--Navigation -->
 <div class="hidden-xs col-sm-2">
 <div class="nav">
-</br>
-</br>
-</br>
+
 <div class="secWrap"><a href="#section1" class="class2a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
 <div class="secWrap"><a href="#section2" class="class2b">&#9835;</a> <a class="secDesc"><small>Here</a></small></div>
 <div class="secWrap"><a href="#section3" class="class2c">&#9835;</a> <a class="secDesc"><small>Jam<b>Forest</b></small></a></div>
@@ -151,7 +151,6 @@
 <div class="secWrap"><a href="#section6" class="class2f">&#9835;</a> <a class="secDesc"><small>News</a></small></div>
 </div>
 </div> </div>
-
 </div> </div>
 
 <!--end of section2 -->
@@ -228,9 +227,7 @@
   <!-- Navigation -->
   <div class="hidden-xs col-sm-2">
   <div class="nav">
-  </br>
-  </br>
-  </br>
+
   <div class="secWrap"><a href="#section1" class="class1a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
   <div class="secWrap"><a href="#section2" class="class1b">&#9835;</a> <a class="secDesc"><small>Splainer Vid</a></small></div>
   <div class="secWrap"><a href="#section3" class="class1c">&#9835;</a> <a class="secDesc"><small>Here</b></small></a></div>
@@ -247,7 +244,6 @@
   <div class="row">
     <!--Social media -->
     <div class="hidden-xs col-sm-12">
-    </br>
     <a href="https://www.facebook.com/JamForestApp/" style="color:black"><i class= "fa fa-facebook"></i></a>
     <a href="https://twitter.com/jamforestapp" style="color:black"><i class= "fa fa-twitter"></i></a>
     <a href="https://webgram.co/jamforestapp" style="color:black"><i class= "fa fa-instagram"></i></a>
@@ -256,10 +252,13 @@
     <a href="https://open.spotify.com/user/jamforest" style="color:black"><i class= "fa fa-spotify"></i></a>
     <a href="https://plus.google.com/u/0/117675732442145087177" style="color:black"><i class="fa fa-google-plus"></i></a>
 </div></div>
-
 <div class="row">
-<div class="col-sm-12 text-center"> <h2>Jam<b>Forest</b> line-up</h2></div>
+<div class="hidden-xs col-sm-12 text-center"> </br></br></div>
 </div>
+<div class="row">
+<div class="col-sm-12 text-center"><h2>Jam<b>Forest</b> line-up</h2></div>
+</div>
+<div class="row"><div class="hidden-xs col-sm-12 text-center"> </br></div></div>
 <!-- Profile pix on pcs -->
 <div class="row" id="flex4">
 <div class="col-xs-2 text-center"> </div>
@@ -286,9 +285,7 @@
 
 <div class="hidden-xs col-sm-2">
 <div class="nav">
-</br>
-</br>
-</br>
+  </br>
 <div class="secWrap"><a href="#section1" class="class2a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
 <div class="secWrap"><a href="#section2" class="class2b">&#9835;</a> <a class="secDesc"><small>Splainer Vid</a></small></div>
 <div class="secWrap"><a href="#section3" class="class2c">&#9835;</a> <a class="secDesc"><small>Jam<b>Forest</b></small></a></div>
@@ -338,12 +335,12 @@
       <a href="http://jamforestapp.tumblr.com/" style="color:white"><i class= "fa fa-bold"></i></a>
       <a href="https://open.spotify.com/user/jamforest" style="color:white"><i class= "fa fa-spotify"></i></a>
       <a href="https://plus.google.com/u/0/117675732442145087177" style="color:white"><i class="fa fa-google-plus"></i></a>
-</div></div>
+</br></div></div>
 <div class="row" id="flex5">
   <div class="hidden-xs col-sm-1">
   </div>
   <div class="hidden-xs col-sm-9 text-center">
-  </br>
+  </br></br>
 <h3>Want to join the Jam<b>Forest</b> team?</h3>
 <br><p>Unfortunately, we do not have any vacancies at the moment, <br> but keep an eye here and on our <a href="https://www.linkedin.com/company-beta/11039854/">LinkedIn </a>to see when we do.</p>
 <img src="images/blackwhite.jpg" alt="JamForest logo" width="25%;">
@@ -359,10 +356,7 @@
 <!--Navigation -->
 <div class="hidden-xs col-sm-2">
 <div class="nav">
-</br>
-</br>
-</br>
-</br>
+</br></br></br></br>
 <div class="secWrap"> <a href="#section1" class="class1a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
 <div class="secWrap"> <a href="#section2" class="class1b">&#9835;</a> <a class="secDesc"><small>Splainer Vid</a></small></div>
 <div class="secWrap"> <a href="#section3" class="class1c">&#9835;</a> <a class="secDesc"><small>Jam<b>Forest</b></small></a></div>
@@ -407,9 +401,7 @@
 <!--Navigation -->
 <div class="hidden-xs col-sm-2">
 <div class="nav">
-</br>
-</br>
-</br>
+
 <div class="secWrap"><a href="#section1" class="class2a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
 <div class="secWrap"><a href="#section2" class="class2b">&#9835;</a> <a class="secDesc"><small>Here</a></small></div>
 <div class="secWrap"><a href="#section3" class="class2c">&#9835;</a> <a class="secDesc"><small>Jam<b>Forest</b></small></a></div>
@@ -465,6 +457,33 @@
    </div>
  </div>
       </div>
+<script type="text/javascript">
+var handler = function(e) {
+  e = e || window.event;
+  var k = e.keyCode || e.which;
+  switch(k) {
+    case 37:
+      document.body.scrollTop-= 675;
+      document.documentElement.scrollTop-= 675;
+      break;
+    case 39:
+      document.body.scrollTop += 675;
+      document.documentElement.scrollTop += 675;
+      break;
+    default: return true;
+  }
+  if( e.preventDefault) e.preventDefault();
+  return false;
+};
+if( window.attachEvent) window.addEvent("onkeydown",handler,false);
+else window.addEventListener("keydown",handler,false);
 
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+   $('#nav').localScroll({duration:800});
+});
+</script>
 </body>
 </html>
