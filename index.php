@@ -9,14 +9,12 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script src="jquery.localscroll.js" type="text/javascript"></script>
-  <script src="jquery.scrollTo.js" type="text/javascript"></script>
+
 
   <link rel="icon" href="images/blackwhite.jpg" type="image/x-icon">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="//db.onlinewebfonts.com/c/3f086dbc376893f56b4a9c4d3cac5df9?family=Hiragino+Sans+GB" rel="stylesheet" type="text/css"/>
-  <link rel="stylesheet" href="https://i.icomoon.io/public/temp/81b92d5664/UntitledProject/style.css">
 	<link rel="stylesheet" href="stylesheet.css">
 </head>
 
@@ -129,20 +127,20 @@
     <a href="https://open.spotify.com/user/jamforest" style="color:black"><i class= "fa fa-spotify"></i></a>
     <a href="https://plus.google.com/u/0/117675732442145087177" style="color:black"><i class="fa fa-google-plus"></i></a>
 </div></div>
-  <div class="row"><div class="col-sm-12"></div></div>
+  <div class="row"><div class="hidden-xs col-sm-12"></div></div>
 
   <div class="row" id="flex2">
-    <div class="hidden-xs col-sm-1"></div>
-  <div class="col-xs-12 col-sm-9">
+    <div class="hidden-xs col-sm-2"></div>
+  <div class="col-xs-12 col-sm-8 text-center">
     <div class="embed-responsive embed-responsive-16by9">
    <iframe src="https://www.youtube.com/embed/NiEERhAVjNI" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
-
 <!--Navigation -->
 <div class="hidden-xs col-sm-2">
 <div class="nav">
-
+</br>
+</br>
 <div class="secWrap"><a href="#section1" class="class2a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
 <div class="secWrap"><a href="#section2" class="class2b">&#9835;</a> <a class="secDesc"><small>Here</a></small></div>
 <div class="secWrap"><a href="#section3" class="class2c">&#9835;</a> <a class="secDesc"><small>Jam<b>Forest</b></small></a></div>
@@ -256,7 +254,10 @@
 <div class="hidden-xs col-sm-12 text-center"> </br></br></div>
 </div>
 <div class="row">
-<div class="col-sm-12 text-center"><h2>Jam<b>Forest</b> line-up</h2></div>
+<div class="hidden-xs col-sm-12 col-md-12 col-lg-12 text-center"><h1>Jam<b>Forest</b> line-up</h1></div>
+</div>
+<div class="row">
+<div class="col-xs-12 hidden-sm hidden-md hidden-lg text-center"><h2>Jam<b>Forest</b> line-up</h2></div>
 </div>
 <div class="row"><div class="hidden-xs col-sm-12 text-center"> </br></div></div>
 <!-- Profile pix on pcs -->
@@ -285,14 +286,13 @@
 
 <div class="hidden-xs col-sm-2">
 <div class="nav">
-  </br>
 <div class="secWrap"><a href="#section1" class="class2a">&#9835;</a> <a class="secDesc"><small>Top</a></small></div>
 <div class="secWrap"><a href="#section2" class="class2b">&#9835;</a> <a class="secDesc"><small>Splainer Vid</a></small></div>
 <div class="secWrap"><a href="#section3" class="class2c">&#9835;</a> <a class="secDesc"><small>Jam<b>Forest</b></small></a></div>
 <div class="secWrap"><a href="#section4" class="class2d">&#9835;</a> <a class="secDesc"><small>Here</a></small></div>
 <div class="secWrap"><a href="#section5" class="class2e">&#9835;</a> <a class="secDesc"><small>Jobs</a></small></div>
 <div class="secWrap"><a href="#section6" class="class2f">&#9835;</a> <a class="secDesc"><small>News</a></small></div>
-</div>
+</br></br></br></div>
 </div> </div>
 
 
@@ -480,10 +480,7 @@ else window.addEventListener("keydown",handler,false);
 
 </script>
 
-<script type="text/javascript">
-$(document).ready(function() {
-   $('#nav').localScroll({duration:800});
-});
+
 </script>
 </body>
 </html>

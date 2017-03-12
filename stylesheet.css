@@ -15,6 +15,9 @@ font-size: 30px;
 h2{
  color:#7ED320;
 }
+h1{
+ color:#7ED320;
+}
 
 #flex1, #flex3, #flex5  {
   display: flex;
@@ -119,7 +122,11 @@ font-size: 20px;
       height:60%;
        min-height:60%;
 }
-
+#section2{
+padding: 30px 25px;
+   height:40%;
+    min-height:40%;
+}
 #section31 {
 padding: 30px 25px;
    height:250%;
